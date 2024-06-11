@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 66d533089de8b42eab7187c21225dddb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startSceneBgm: {instanceID: 0}
+  - mainSceneBgm: {instanceID: 0}
+  - rankingSceneBgm: {instanceID: 0}
+  - buttonClickBgm: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: e82aad13e93864aca9089b0b928c0a79, type: 2}
+  - audioSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
